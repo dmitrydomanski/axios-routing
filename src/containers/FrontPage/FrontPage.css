@@ -1,0 +1,23 @@
+.FrontPage ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.FrontPage li {
+    display: inline-block;
+    margin: 20px;    
+}
+
+.FrontPage a {
+    text-decoration: none;
+    color: black; 
+}
+
+.FrontPage a:hover,
+.FrontPage a:active,
+.FrontPage a.active {
+    color: #fa923f;
+}
